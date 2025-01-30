@@ -1,2 +1,3 @@
-# matplotlib-exercises
-practice matplotlib
+This repository contains:
+- Notes on Matplotlib from Zero to Mastery (Section 2: Data Science and ML Tools), originally available [here](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-matplotlib.ipynb)
+- My solutions to Matplotlib exercises from Zero to Mastery, available here [here](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/matplotlib-exercises.ipynb)
